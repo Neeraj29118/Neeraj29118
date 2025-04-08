@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Advanced Cybersecurity & AI Integration**  
 - 💻 I have experience with:  
   - **Programming Languages:** Python, Java, C, C++, Rust, SQL, R, PHP  
-  - **Frontend Technologies:** HTML, CSS, JavaScript  
+  - **Frontend Technologies:** HTML, CSS, Javascript, React
   - **Backend Technologies:** PHP, SQL  
 - 🚀 I have participated in **Hackathon Ignite & Ideathon** (Team Leader of **Supernova**)  
 - 💞️ I’m looking to collaborate on **Cybersecurity projects, AI-driven security tools, and Full-Stack Development**  
