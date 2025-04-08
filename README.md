@@ -9,6 +9,6 @@
 - 🚀 I have participated in **Hackathon Ignite & Ideathon** (Team Leader of **Supernova**)  
 - 💞️ I’m looking to collaborate on **Cybersecurity projects, AI-driven security tools, and Full-Stack Development**  
 - 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/neeraj-upadhayay-2nd-a0958a246/)**  
-- 📫 Reach me at: **neerajupadhayay29118@gmail.com**  
+- 📫 Reach me at: **neerajupadhayay347@gmail.com**  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: **I can think like a hacker but act like a protector!**  
